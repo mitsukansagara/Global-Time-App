@@ -1,6 +1,4 @@
-# com
-
-Time across the globe.
+# Time across the globe.
 
 ## Getting Started
 
